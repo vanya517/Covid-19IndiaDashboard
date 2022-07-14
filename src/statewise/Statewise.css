@@ -10,11 +10,10 @@
 }
 
 h1{
-    background: -webkit-linear-gradient(orange,rgb(149, 167, 201) ,green);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    background: -webkit-linear-gradient(orange,rgb(216, 220, 226) ,green);
     font-size: 60px;
     color: black;
+    margin: 50px;
     
     
 }
@@ -28,7 +27,7 @@ h1{
    padding: 2%;
     margin: 50px;
     max-height: 700px;
-    background-color: rgb(22, 150, 133);
+    background-color: rgb(8, 106, 121);
 }
 
 tr:hover{
