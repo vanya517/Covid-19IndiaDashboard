@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Covid-19IndiaDashboard/static/css/main.130f9c0e.css",
+    "main.js": "/Covid-19IndiaDashboard/static/js/main.0b377fa9.js",
+    "index.html": "/Covid-19IndiaDashboard/index.html",
+    "main.130f9c0e.css.map": "/Covid-19IndiaDashboard/static/css/main.130f9c0e.css.map",
+    "main.0b377fa9.js.map": "/Covid-19IndiaDashboard/static/js/main.0b377fa9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.130f9c0e.css",
+    "static/js/main.0b377fa9.js"
+  ]
+}
